@@ -12,7 +12,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://ja7rodal.github.io/hexobl.github.io/
+url: https://ja7rodal.github.io/blog-hexo
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -67,6 +67,6 @@ theme: rodal
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repo: https://github.com/ja7rodal/hexobl.github.io
-  branch: master
+	type: git 
+	repo:	https://github.com/ja7rodal/blog-Hexo
+  branch: gh-pages
