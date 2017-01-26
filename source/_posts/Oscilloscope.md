@@ -5,4 +5,4 @@ tags: Oscilloscope Equipment
 category: Course
 ---
 
-![](/images/oscilloscope-controls.gif)
+![](/blog_hexo/images/oscilloscope-controls.gif)

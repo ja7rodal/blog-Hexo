@@ -8,4 +8,4 @@ category: Course
 
 Recuerda cunplir los mandamientos de la clase o seraís castigado (*en la nota por supuesto*)
 
-![](/images/Mandamientos.png)
+![](/blog-Hexo/images/Mandamientos.png)
